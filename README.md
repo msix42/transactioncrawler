@@ -1,8 +1,7 @@
 # transactioncrawler
 Transaction crawler written in html and javascript with web3js
 
-The script will ask for a block number and an address and subsequently request all blocks since the selected one in order to display
-all Ether transfers to and from as well as the current balance of the address.
+The script will ask for a block number and an address and subsequently request all blocks from the selected one to the latest block in order to display all Ether transfers to and from as well as the current balance of the address.
 
 Instructions:
 
